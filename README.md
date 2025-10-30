@@ -178,13 +178,6 @@ Berikut adalah *checklist* fitur dari spesifikasi tugas yang telah diimplementas
 
 ## 📸 Dokumentasi (Demo Program)
 
-*(Catatan: Silakan ganti placeholder di bawah ini dengan screenshot atau GIF Anda)*
 
-### 1. Tampilan Menu Utama
-*(Sisipkan screenshot/gif menu utama di sini)*
+https://github.com/user-attachments/assets/47d67a06-8f22-463f-add8-9abeb9144c42
 
-### 2. Tampilan Gameplay
-*(Sisipkan screenshot/gif saat bermain di sini)*
-
-### 3. Tampilan Game Over
-*(Sisipkan screenshot/gif dialog game over di sini)*
