@@ -178,6 +178,6 @@ Berikut adalah *checklist* fitur dari spesifikasi tugas yang telah diimplementas
 
 ## 📸 Dokumentasi (Demo Program)
 
+https://github.com/user-attachments/assets/58862b74-5558-42f6-9db8-b711c34a4620
 
-https://github.com/user-attachments/assets/47d67a06-8f22-463f-add8-9abeb9144c42
 
